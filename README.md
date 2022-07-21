@@ -15,14 +15,14 @@ After getting 2,000 random latitudes and longitudes worldwide and finding the ne
 ### Vacation Search
 Once the weather data has been populated, we can ask the user for information! The program allows the user to select the minimum and maximum temperature they would like their vaction to be and we can filter based on that information. Then, using Google Places API we find the nearest hotel to each location that fits the user's criteria. For example, the below diagram show what having a temp range between 75°F and 90°F:
 
-[](/Vacation_Search/WeatherPy_vacation_map.PNG)
+![](/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 We see the app is able to return the Hotel Name, City, Country, and Current Weather of all the locations that fit the users temperature preferences.
 
 ### Vacation Itinerary
 And lastly the app can also plot a example roadtrip getaway. Using four cities near each other in the Northeast part of the United States, we can create a route and display the same markers as above:
 
-[](/Vacation_Itinerary/WeatherPy_travel_map.PNG)
-[](/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+![](/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+![](/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 These improvements will help users find hotels that suit their weather preferences and plan a getaway vacation!
