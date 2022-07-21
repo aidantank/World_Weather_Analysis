@@ -4,7 +4,7 @@
 Make improvements to the PlanMyTrip app using API calls of Open Weather, Google Places, and Google Directions API. The PlanMyTrip app helps users find hotels in locations all around the world based on temperature preference. From there, the user will be able to see the city, temperature, humidity, cloudiness, and weather description of the hotel locations. Finally, the app will select 4 nearby hotels and plan a "fake" trip for the user.
 
 ## Resources
-Software: Python 3.7.13, Jupyter Notebook 6.4.8, Anaconda 4.13.0, Visual Studio Code 1.68.1
+Software: Python 3.7.13, Jupyter Notebook 6.4.8, Anaconda 4.13.0, Visual Studio Code 1.68.1  
 API's Used: [OpenWeather](https://openweathermap.org/), [Google Places](https://developers.google.com/maps/documentation/places/web-service/search-nearby), 
 and [Google Directions](https://developers.google.com/maps/documentation/directions/overview)
 
